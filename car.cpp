@@ -95,7 +95,7 @@ int main()
 {
     Driver D[100];
     Passenger P[100];
-    string Loc[] = {"TULJAPUR","SOLAPUR","KOLHAPUR","MUMBAI","PUNE","GOA","NASHIK","LATUR"};
+    string Loc[] = {"TULJAPUR","SOLAPUR","KOLHAPUR","MUMBAI","PUNE","GOA","NASHIK","LATUR","NADIAD","MANINAGAR","AHEMDABAD"};
     int choice,d=0,p=0,confirmchoice;
     int flag=0;
 
